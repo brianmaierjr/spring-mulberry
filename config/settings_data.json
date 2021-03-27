@@ -1,0 +1,1728 @@
+{
+  "current": {
+    "performance": "sport",
+    "image_loading_style": "appear",
+    "custom_scripts": "",
+    "logo_color": "#ae7d32",
+    "regular_color": "#2b3243",
+    "banner_color": "#f1ece5",
+    "headline_color": "#2b3243",
+    "headline_footer_text_color": "#2b3243",
+    "sub_footer_text_color": "#2b3243",
+    "sale_color": "#2b3243",
+    "was_price_color": "#b0b0b0",
+    "product_hover_text_color": "#ffffff",
+    "promo_text_color": "#73682b",
+    "shop_home_page_content_text_color": "#ae7d32",
+    "newsletter_popup_color": "#ae7d32",
+    "newsletter_section_color": "#2b3243",
+    "collection_filter_color": "#2b3243",
+    "top_bar_color": "#ae7d32",
+    "top_bar_color_hover": "#ae7d32",
+    "nav_color": "#2b3243",
+    "nav_color_home": "#ae7d32",
+    "nav_color_hover": "#73682b",
+    "link_color": "#f1ece5",
+    "link_hover_color": "#ae7d32",
+    "sidebar_nav_color": "#ae7d32",
+    "sidebar_nav_color_hover": "#b66c34",
+    "sub_footer_link_color": "#142b3b",
+    "sub_footer_link_color_hover": "#b66c34",
+    "btn_color": "#ae7d32",
+    "banner_button_color": "#ae7d32",
+    "btn_hover_color": "#73682b",
+    "btn_text_color": "#ffffff",
+    "button_style": "rounded",
+    "read_more_style": "link",
+    "swatch_style": "rounded",
+    "table_styles_enabled": true,
+    "slideshow_arrow_size": "light",
+    "arrow_color": "#333333",
+    "slideshow_button_style": true,
+    "slideshow_nav_buttons": false,
+    "border_color": "#cccccc",
+    "headline_border_color": "#142b3b",
+    "headline_border": "0",
+    "divider_style": "solid",
+    "sub_footer_border_color": "rgba(0,0,0,0)",
+    "banner_style": "square",
+    "sale_banner_color": "#ae7d32",
+    "new_banner_color": "#142b3b",
+    "search_section_color": "#ffffff",
+    "search_section_bg_color": "#142b3b",
+    "testimonial_color": "#ae7d32",
+    "testimonial_bg_color": "#f1ece5",
+    "featured_promotions_color": "#2b3243",
+    "featured_promotions_color_hover": "#fff",
+    "featured_promotions_background": "#f1ece5",
+    "featured_promotions_mobile_background": true,
+    "modal_background_color": "#ffffff",
+    "modal_text_color": "#2b2e38",
+    "shop_bg_color": "#f1ece5",
+    "custom_bg": "",
+    "repeat_bg": "repeat",
+    "bg_fixed": false,
+    "bg_stretched": false,
+    "top_bar_bg_color": "#f1ece5",
+    "top_bar_cart_bg_color": "#f1ece5",
+    "minicart_bg_color": "#f1ece5",
+    "banner_placeholder_background_color": "#f1ece5",
+    "banner_background_color": "#73682b",
+    "header_bg_color": "#f1ece5",
+    "header_background": true,
+    "transparent_header": false,
+    "promo_bg_color": "#f2f2f2",
+    "shop_home_page_content_bg_color": "#f1ece5",
+    "featured_links_background": "#f1ece5",
+    "product_hover_bg_color": "#142b3b",
+    "sub_footer_color": "#f1ece5",
+    "footer_bg": "",
+    "footer_bg_stretched": false,
+    "newsletter_popup_background_color": "#ffffff",
+    "newsletter_section_background_color": "#cccccc",
+    "password_page_text_color": "#ae7d32",
+    "password_page_background_color": "#fef7eb",
+    "logo__font": "itc_berkeley_old_style_n4",
+    "logo_font_style": "lowercase",
+    "logo_font_size": 30,
+    "top_bar_font_size": 20,
+    "top_bar_letter_spacing": 5,
+    "nav__font": "itc_berkeley_old_style_n4",
+    "nav_font_style": "lowercase",
+    "nav_font_size": 20,
+    "nav_letter_spacing": 2,
+    "nav_shadow": false,
+    "button_weight": "bold",
+    "button_font_style": "uppercase",
+    "button_font_size": 20,
+    "mega_text_font_size": 14,
+    "mega_text_letter_spacing": 1,
+    "headline__font": "itc_berkeley_old_style_n4",
+    "headline_font_style": "none",
+    "headline_font_size": 45,
+    "headline_letter_spacing": 2,
+    "slideshow_headline__font": "itc_berkeley_old_style_n4",
+    "slideshow_headline_font_style": "none",
+    "slideshow_headline_size": 52,
+    "slideshow_headline_letter_spacing": 1,
+    "slideshow_headline_shadow": false,
+    "slideshow_subtitle__font": "itc_berkeley_old_style_n4",
+    "slideshow_subtitle_font_style": "none",
+    "slideshow_subtitle_size": 20,
+    "slideshow_subtitle_letter_spacing": 1,
+    "slideshow_shadow": false,
+    "regular__font": "itc_berkeley_old_style_n4",
+    "regular_font_style": "none",
+    "regular_font_size": 20,
+    "footer_logo_font_size": 24,
+    "footer_heading_font_size": 20,
+    "footer_font_size": 16,
+    "mega_menu_1": true,
+    "mega_menu_2": false,
+    "mega_menu_3": false,
+    "mega_menu_4": false,
+    "mega_menu_5": false,
+    "search_option": "products",
+    "search_pagination_type": "basic_pagination",
+    "enable_autocomplete": true,
+    "search_to_display": 5,
+    "align_height": false,
+    "collection_height": 200,
+    "thumbnail_hover_enabled": false,
+    "display_vendor": false,
+    "collection_secondary_image": false,
+    "sale_banner_enabled": false,
+    "collection_swatches": false,
+    "mobile_products_per_row": "1",
+    "pagination_type": "load_more",
+    "notify_me_form": false,
+    "notify_me_richtext": "<p>Notify me when this product is available:<\/p>",
+    "product_form_style": "swatches",
+    "display_product_quantity": false,
+    "limit_quantity": false,
+    "display_inventory_left": false,
+    "inventory_threshold": 10,
+    "display_price": false,
+    "sold_out_text": "Sold out",
+    "free_price_text": "Free",
+    "size_chart": "",
+    "enable_shopify_review_comments": false,
+    "enable_shopify_collection_badges": false,
+    "quick_shop_enabled": false,
+    "quick_shop_style": "inline",
+    "product_thumbs": true,
+    "gallery_arrows": true,
+    "activate_zoom": false,
+    "slideshow_speed": 0,
+    "slideshow_animation": "slide",
+    "thumbnail_position": "bottom",
+    "enable_thumbnail_slider": true,
+    "quick_shop_display_vendor": false,
+    "quick_shop_full_description": true,
+    "description_words": 25,
+    "quick_shop_product_description_position": "top",
+    "quick_shop_display_savings": true,
+    "show_payment_button": true,
+    "product_images_position": "left",
+    "video_looping": false,
+    "cart_action": "ajax",
+    "show_lock_icon": true,
+    "display_tos_checkbox": true,
+    "tos_page": "",
+    "go_to_checkout": true,
+    "display_special_instructions": false,
+    "display_savings": false,
+    "cart_message": "",
+    "show_shipping_calculator": true,
+    "shipping_calculator_default_country": "United States",
+    "currency_format": "money_format",
+    "show_multiple_currencies": true,
+    "supported_currencies": "USD CAD AUD GBP EUR JPY",
+    "default_currency": "USD",
+    "mailchimp_link": "",
+    "secondary_newsletter_banner": false,
+    "newsletter_popup": true,
+    "newsletter_popup_close": true,
+    "newsletter_popup_mobile": true,
+    "newsletter_popup_form": false,
+    "display_first_name": false,
+    "display_last_name": false,
+    "use_newsletter_border": true,
+    "newsletter_bg": "",
+    "image_crop": "none",
+    "newsletter_popup_image_align": "left",
+    "newsletter_popup_title": "Sign up &  receive 10% off your first order.",
+    "newsletter_popup_text": "",
+    "newsletter_popup_text_align": "center",
+    "popup_button1": "",
+    "popup_button1_link": "",
+    "popup_button1_highlight": false,
+    "popup_button2": "",
+    "popup_button2_link": "",
+    "popup_button2_highlight": false,
+    "newsletter_popup_seconds": 6,
+    "newsletter_popup_days": "14",
+    "twitter_link": "",
+    "facebook_link": "",
+    "youtube_link": "",
+    "vimeo_link": "",
+    "pinterest_link": "",
+    "tumblr_link": "",
+    "instagram_link": "https:\/\/www.instagram.com\/spring.mulberry",
+    "snapchat_link": "",
+    "houzz_link": "",
+    "linkedin_link": "",
+    "email_link": "",
+    "og_image_fallback": "",
+    "favicon": "",
+    "disqus_enabled": false,
+    "disqus_shortname": "",
+    "checkout_header_image": "",
+    "checkout_logo_image": "",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "small",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#b66c34",
+    "checkout_button_color": "#ee9b40",
+    "checkout_error_color": "#142b3b",
+    "quick_shop_zoom": false,
+    "quick_shop_gallery_arrows": true,
+    "quick_shop_slideshow_animation": "slide",
+    "quick_shop_product_images_position": "left",
+    "quick_shop_product_thumbs": false,
+    "quick_shop_thumbnail_position": "bottom-thumbnails",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "promo_text": "<p>$5 Flat Rate Shipping &amp; Complimentary Shipping with Orders $65+<\/p>",
+          "social_icons_header": true,
+          "phone_number": "",
+          "top_bar_menu": "",
+          "show_cart": true,
+          "cart_icon": "cart",
+          "logo_display_width": 205,
+          "logo": "shopify:\/\/shop_images\/Logo_1d0f2b5a-f899-43ff-b36a-3b16da02e9db.png",
+          "logo_home": "shopify:\/\/shop_images\/Logo_1d0f2b5a-f899-43ff-b36a-3b16da02e9db.png",
+          "logo_mobile": "shopify:\/\/shop_images\/Logo_1d0f2b5a-f899-43ff-b36a-3b16da02e9db.png",
+          "main_linklist": "main-menu",
+          "main_linklist2": "",
+          "vertical_menu": false,
+          "search_enabled": false,
+          "show_locale_selector": false,
+          "show_currency_selector": false,
+          "fixed_header": false,
+          "logo_position": "center",
+          "logo_alignment": "center",
+          "menu_position": "block",
+          "menu_alignment": "center",
+          "logo_top_padding": 0,
+          "menu_top_padding": 6
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "logo",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Logo_1d0f2b5a-f899-43ff-b36a-3b16da02e9db.png",
+              "text_align": "left",
+              "social_icons_footer": false
+            }
+          },
+          "1590541888332": {
+            "type": "link_list",
+            "settings": {
+              "menu": "inquiries",
+              "social_icons_footer": true
+            }
+          },
+          "1590525665119": {
+            "type": "newsletter",
+            "settings": {
+              "title": "Nourish your Inbox.",
+              "newsletter_text": "<p>Be first to know when we launch, enjoy exclusive discounts, and join our growing community.<\/p>",
+              "show_firstname": true,
+              "show_lastname": true,
+              "show_social": false
+            }
+          }
+        },
+        "block_order": [
+          "footer-0",
+          "1590541888332",
+          "1590525665119"
+        ],
+        "settings": {
+          "copyright_text": "",
+          "display_designed_by": false,
+          "display_payment_methods": false,
+          "show_locale_selector": false,
+          "show_currency_selector": false
+        }
+      },
+      "1489283389016": {
+        "type": "image-with-text-overlay",
+        "settings": {
+          "wide_display": true,
+          "pretext": "",
+          "title": "Date the New Collection",
+          "subtitle": "<p>Introducing sweet treats crafted from nouishing                           <br\/>      ingredients &amp; sweetened only with dates.<\/p>",
+          "caption_background": false,
+          "caption_background_transparency": false,
+          "button1": "Shop Now",
+          "button1_link": "shopify:\/\/collections\/glassware",
+          "button1_highlight": true,
+          "button2": "",
+          "button2_highlight": false,
+          "text_position": "left",
+          "text_align": "left",
+          "mobile_image_crop": "none",
+          "mobile_text_below_image": false,
+          "mobile_text_color": ""
+        }
+      },
+      "mega-menu-1": {
+        "type": "mega-menu-1",
+        "settings": {
+          "parent": "Shop"
+        }
+      },
+      "password-template": {
+        "type": "password-template",
+        "settings": {}
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "blocks": {
+          "5719c7f3-2872-4581-bbd0-7a82c487b805": {
+            "type": "menu",
+            "settings": {
+              "custom_menu_linklist": "date-bites"
+            }
+          },
+          "84787e15-8a1e-41e6-9e2d-68bfcc669026": {
+            "type": "menu",
+            "settings": {
+              "custom_menu_linklist": "chocolate-bark"
+            }
+          },
+          "941c719e-aa71-44c5-8449-3e34cb755d49": {
+            "type": "menu",
+            "settings": {
+              "custom_menu_linklist": "fruit-nut-mix"
+            }
+          }
+        },
+        "block_order": [
+          "5719c7f3-2872-4581-bbd0-7a82c487b805",
+          "84787e15-8a1e-41e6-9e2d-68bfcc669026",
+          "941c719e-aa71-44c5-8449-3e34cb755d49"
+        ],
+        "settings": {
+          "wide_display": false,
+          "featured_collection_image": false,
+          "image_darken": false,
+          "display_collection_title": false,
+          "collection_breadcrumb": false,
+          "collection_tags": false,
+          "collection_sort": false,
+          "products_per_row": 3,
+          "pagination_limit": 6,
+          "toggle": true
+        }
+      },
+      "newsletter": {
+        "type": "newsletter",
+        "settings": {
+          "wide_display": true,
+          "display_first_name": false,
+          "display_last_name": false,
+          "newsletter_title": "Subscribe",
+          "newsletter_text": "<p>Sign up to get the latest on sales, new releases and more …<\/p>",
+          "newsletter_section_text_align": "center",
+          "image": ""
+        }
+      },
+      "search-template": {
+        "type": "search-template",
+        "blocks": {
+          "1572361701961": {
+            "type": "filter_by_collection",
+            "settings": {}
+          }
+        },
+        "block_order": [
+          "1572361701961"
+        ],
+        "settings": {
+          "image": "",
+          "image_darken": true,
+          "search_breadcrumb": true,
+          "search_term": "Find what you're looking for here",
+          "products_per_row": 3,
+          "pagination_limit": 48,
+          "blog_author": false,
+          "read_more_link": true,
+          "blog_date": true,
+          "toggle": false
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "product_thumbs": true,
+          "gallery_arrows": false,
+          "enable_product_lightbox": false,
+          "activate_zoom": true,
+          "slideshow_speed": 6,
+          "slideshow_animation": "fade",
+          "thumbnail_position": "right",
+          "enable_thumbnail_slider": true,
+          "display_vendor": false,
+          "product_breadcrumb": false,
+          "display_sku": false,
+          "display_collections": false,
+          "display_type": false,
+          "display_tags": false,
+          "display_social_buttons": true,
+          "product_description_position": "top",
+          "display_savings": false,
+          "show_payment_button": true,
+          "product_images_position": "left",
+          "set_product_height": false,
+          "product_height": 500,
+          "video_looping": false,
+          "enable_shopify_product_badges": true,
+          "review_position": "below_gallery",
+          "display_recently_viewed": true,
+          "rv_title": "Recently Viewed Items",
+          "rv_products_style": "grid",
+          "rv_max_display": 3,
+          "rv_per": 3,
+          "toggle": false
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "product_recommendations_style": "grid",
+          "product_recommendations_heading": "You may also like",
+          "products_per_row": 3,
+          "recommended_products_limit": 3
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "blocks": {
+          "1571936879414": {
+            "type": "newsletter",
+            "settings": {
+              "newsletter_title": "Get recipes & ideas delivered to your inbox",
+              "newsletter_text": "<p>Sign up for our newsletter to learn about releases, exclusive deals and more!<\/p>"
+            }
+          },
+          "1571936865299": {
+            "type": "post_tags",
+            "settings": {}
+          },
+          "1571936848686": {
+            "type": "recent_posts",
+            "settings": {
+              "blog_post_count": "5"
+            }
+          }
+        },
+        "block_order": [
+          "1571936879414",
+          "1571936865299",
+          "1571936848686"
+        ],
+        "settings": {
+          "wide_display": true,
+          "featured_image": "banner",
+          "image_darken": false,
+          "blog_breadcrumb": true,
+          "blog_pagination": true,
+          "blog_tags": true,
+          "blog_byline": true,
+          "read_time": true,
+          "blog_date": true,
+          "blog_author": false,
+          "display_social_buttons": true,
+          "blog_comment_count": true,
+          "blog_additional_posts": true,
+          "read_more_link": false,
+          "toggle": false
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "blocks": {
+          "1571261415618": {
+            "type": "search",
+            "settings": {}
+          },
+          "1571258334444": {
+            "type": "text",
+            "settings": {
+              "title": "Cocktails, Recipes and More",
+              "text": "<p>We loving sharing industry secrets and learning about new cocktails with our customers and friends. Join in on the conversation!<\/p>"
+            }
+          },
+          "1571936952069": {
+            "type": "post_tags",
+            "settings": {}
+          },
+          "1571261472593": {
+            "type": "recent_posts",
+            "settings": {
+              "blog_post_count": "10"
+            }
+          }
+        },
+        "block_order": [
+          "1571261415618",
+          "1571258334444",
+          "1571936952069",
+          "1571261472593"
+        ],
+        "settings": {
+          "wide_display": true,
+          "image": "",
+          "image_darken": false,
+          "subtitle": "",
+          "blog_posts_per_row": 1,
+          "blog_posts_per_page": 4,
+          "blog_tags": false,
+          "blog_author": false,
+          "read_time": false,
+          "blog_date": false,
+          "blog_comment_count": true,
+          "read_more_link": true,
+          "toggle": false
+        }
+      },
+      "page-faq-template": {
+        "type": "page-faq-template",
+        "blocks": {
+          "page-faq-template-4": {
+            "type": "heading",
+            "settings": {
+              "heading": "Orders"
+            }
+          },
+          "page-faq-template-7": {
+            "type": "Content",
+            "settings": {
+              "title": "When will my order ship?",
+              "subtitle": "<p>Your order will ship at the end of April ahead of Mother&#x27;s Day.<\/p>"
+            }
+          },
+          "93692898-899f-412d-80c1-e3db4538d044": {
+            "type": "Content",
+            "settings": {
+              "title": "How will I know when my order will arrived?",
+              "subtitle": "<p>When your order ships, we’ll send you a tracking number so you can keep up to date on when your sweet treats are delivered.<\/p>"
+            }
+          },
+          "a8e4b760-3b03-4bd5-b9ed-5a79da2c7660": {
+            "type": "Content",
+            "settings": {
+              "title": "What shipping method do you recommend for warm climates?",
+              "subtitle": "<p>Shipping chocolate is tricky because it melts at temperatures above 80 degrees. For those living in warm climates, we recommend selecting 2-day shipping. And, in the summer months, 2-day shipping with cold packs is standard on all packages. We hate the shipping costs associated with warm weather and know you do too.<\/p>"
+            }
+          },
+          "page-faq-template-5": {
+            "type": "Content",
+            "settings": {
+              "title": "How are shipping costs calculated?",
+              "subtitle": "<p>Our shipping charges are based on the delivery time and destination. Use our shipping rate calculator, so you can estimate the cost before the checkout process. Standard shipping is complimentary on orders over $65!<\/p>"
+            }
+          },
+          "page-faq-template-6": {
+            "type": "Content",
+            "settings": {
+              "title": "Do you ship worldwide?",
+              "subtitle": "<p>Right now, we only ship within the continental U.S. One day we hope to expand! <\/p>"
+            }
+          },
+          "1591383272152": {
+            "type": "Content",
+            "settings": {
+              "title": "Do you take returns or exchanges?",
+              "subtitle": "<p>Because our products are perishable and require proper storage, we can not accept returns. If you have issues of any kind, please reach out and we&#x27;ll do our best to make it right.<\/p>"
+            }
+          },
+          "d0cc02fc-9506-47ee-882b-15361271b978": {
+            "type": "heading",
+            "settings": {
+              "heading": "Gifting"
+            }
+          },
+          "1105a226-4a5f-44ae-b270-789360b1104d": {
+            "type": "Content",
+            "settings": {
+              "title": "Can I add a gift card to my order?",
+              "subtitle": "<p>Yes! We have two options. A complimentary gift note is included on each packaging slip. You can also select a handwritten note on Spring &amp; Mulberry stationary for $4. If you want to add a gift card after placing your order, we will do our best to make it happen, but guarantee it. <\/p>"
+            }
+          },
+          "17842316-92da-43fe-b58b-3756de1a7256": {
+            "type": "Content",
+            "settings": {
+              "title": "Will my product look like a gift?",
+              "subtitle": "<p>Yes! We love gifting, whether you are gifting yourself or treating others. All of our products are placed in modern, minimal gift packaging. And, the box your products arrive in will have added touches perfect for gifting.<\/p>"
+            }
+          },
+          "3dcf2ff0-d9cd-48e3-91df-951c9d27ade4": {
+            "type": "Content",
+            "settings": {
+              "title": "Is it possible to send to multiple addresses in one order?",
+              "subtitle": "<p>We can only deliver to one address per order. We hope to offer multiple address functionality as we grow. Thanks for your understanding.<\/p>"
+            }
+          },
+          "2885f825-80fc-423a-b6ee-a829f304938f": {
+            "type": "Content",
+            "settings": {
+              "title": "Do you offer corporate gifting?",
+              "subtitle": "<p>Thanks for your interest in offering Spring &amp; Mulberry to your team! Please <a href=\"\/pages\/contact\" title=\"Contact Us\">contact us<\/a> and we will be in touch. <\/p>"
+            }
+          },
+          "1591383240219": {
+            "type": "heading",
+            "settings": {
+              "heading": "Ingredients & Allergens"
+            }
+          },
+          "1591391097789": {
+            "type": "Content",
+            "settings": {
+              "title": "Why do you use dates?",
+              "subtitle": "<p>There are so many wonderful reasons to use dates.<\/p><p>On the nutritional front, they are packed with antioxidants. In fact, they contain more polyphenols than blueberries. Dates area also rich in fiber, which helps with digestion, and they enjoy a low-glycemic index sweet, which eliminates the sugar crash that comes with conventional desserts.<\/p><p>On the cooking front, dates make a wonderful whole sweetener, as they come in many forms: whole dates, date paste, date syrup, and date powder, making it easy for snacking, sweetening, and baking. Their rich caramel flavor reminds us of brown sugar. <\/p>"
+            }
+          },
+          "1591383459677": {
+            "type": "Content",
+            "settings": {
+              "title": "Are your products organic?",
+              "subtitle": "<p>We eat organically and believe it is important for the health of our bodies and the planet. We use exclusively organic and hierloom ingredients. All of our products are produced in a certified organic facility. <\/p>"
+            }
+          },
+          "1591383555023": {
+            "type": "Content",
+            "settings": {
+              "title": "Are your products vegan or plant-based?",
+              "subtitle": "<p>Yes, all of our products are vegan and plant-based. We love a delicious cheese, but find fruits, nuts, and cacao taste delicious on their own!<\/p>"
+            }
+          },
+          "1591390604053": {
+            "type": "Content",
+            "settings": {
+              "title": "Are your products gluten-free?",
+              "subtitle": "<p>Our products are naturally gluten-free, but are produced on equipment that also processes wheat products. That means there may be traces of gluten. We do plan to seek gluten-free certification as we grow.<\/p>"
+            }
+          },
+          "1591390838991": {
+            "type": "Content",
+            "settings": {
+              "title": "Are your products nut-free?",
+              "subtitle": "<p>All of our products contain nuts, nut butters, and\/or coconut oil. Our products are also manufactured on equipment that processes peanuts and other tree nuts. <\/p>"
+            }
+          },
+          "page-faq-template-0": {
+            "type": "heading",
+            "settings": {
+              "heading": "The Company"
+            }
+          },
+          "page-faq-template-1": {
+            "type": "Content",
+            "settings": {
+              "title": "What's the story behind the brand?",
+              "subtitle": ""
+            }
+          },
+          "page-faq-template-3": {
+            "type": "Content",
+            "settings": {
+              "title": "What's the story behind the name?",
+              "subtitle": "<p>Spring &amp; Mulberry is the intersection in New York City where Kathryn would meet her husband for pizza when they first started dating. Spring is also a time of rebirth, when plants and trees come to life, ultimately bearing fruits like mulberries that nourish our body and sweeten our life.<\/p>"
+            }
+          },
+          "1591388714875": {
+            "type": "Content",
+            "settings": {
+              "title": "What does the company stand for?",
+              "subtitle": "<p>We believe that foods should be delicious and nutritious. That sweets should make you feel as good as they taste. That&#x27;s why we trade up to antioxidant packed fruits, nuts, and cacao, forgoing all the bad stuff. Our products  are sweetened only with dates, a nutrient dense super food with beautiful notes of caramel.<\/p>"
+            }
+          },
+          "page-faq-template-2": {
+            "type": "Content",
+            "settings": {
+              "title": "Where are your products made?",
+              "subtitle": "<p>All of our products and packaging are designed, developed, and made in America. Our company is based in Raleigh, North Carolina. <\/p>"
+            }
+          },
+          "60fabd31-3c95-4cf9-bfd4-2d064b3b58e5": {
+            "type": "Content",
+            "settings": {
+              "title": "Is your packaging sustainable?",
+              "subtitle": "<p>Sustainability is so tricky and our goal is to approach it as thoughtfully as possible. <\/p><p>All of our packaging is manufactured in the US, which reduces the carbon footprint caused by shipping aborad. <\/p><p>We also seek to use modern, minimal design in our packaging so that each element is necessary for preservation or protection of the product. <\/p><p>Our tins and cylinders are designed to be upcycled, while our packaging for shipping can be recycled.<\/p><p><\/p><p><\/p>"
+            }
+          },
+          "aa531016-3a1a-4ef7-84af-001a8fb6522d": {
+            "type": "Content",
+            "settings": {
+              "title": "What is the shelf life of your products?",
+              "subtitle": "<p>The shelf life of each product is labeled on the package. Our date bites can be enjoyed up to 6 months from the manufacturing date. After that, you&#x27;ll find the nut butters may cause them to dry out. Our chocolate bark and trail mixes can be enjoyed up to 12 months following the manufacturing date.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "page-faq-template-4",
+          "page-faq-template-7",
+          "93692898-899f-412d-80c1-e3db4538d044",
+          "a8e4b760-3b03-4bd5-b9ed-5a79da2c7660",
+          "page-faq-template-5",
+          "page-faq-template-6",
+          "1591383272152",
+          "d0cc02fc-9506-47ee-882b-15361271b978",
+          "1105a226-4a5f-44ae-b270-789360b1104d",
+          "17842316-92da-43fe-b58b-3756de1a7256",
+          "3dcf2ff0-d9cd-48e3-91df-951c9d27ade4",
+          "2885f825-80fc-423a-b6ee-a829f304938f",
+          "1591383240219",
+          "1591391097789",
+          "1591383459677",
+          "1591383555023",
+          "1591390604053",
+          "1591390838991",
+          "page-faq-template-0",
+          "page-faq-template-1",
+          "page-faq-template-3",
+          "1591388714875",
+          "page-faq-template-2",
+          "60fabd31-3c95-4cf9-bfd4-2d064b3b58e5",
+          "aa531016-3a1a-4ef7-84af-001a8fb6522d"
+        ],
+        "settings": {
+          "wide_display": true,
+          "image": "shopify:\/\/shop_images\/bowl-of-red-cherries-on-a-white-background_1400x_3e6b119a-9064-4e26-b98e-7ff1c069d6aa.jpg",
+          "pretext": "",
+          "title": "Common Questions",
+          "subtitle": "<p>Hope we&#x27;ve read your mind...<\/p>",
+          "caption_background": true,
+          "caption_background_transparency": false,
+          "text_position": "left",
+          "text_align": "left",
+          "button1": "",
+          "button1_highlight": false,
+          "button2": "",
+          "button2_highlight": false
+        }
+      },
+      "page-team-template": {
+        "type": "page-team-template",
+        "blocks": {
+          "page-team-template-0": {
+            "type": "employee",
+            "settings": {
+              "image": "",
+              "title": "Kacey Julep",
+              "job_title": "Owner + Founder",
+              "description": "<p>Lover of bourbon and glasswork. This company is my dream.&nbsp;<\/p>\n<p><\/p>\n<p>Favorite drink: Manhattan<\/p>",
+              "twitter": "Shopify"
+            }
+          },
+          "page-team-template-1": {
+            "type": "employee",
+            "settings": {
+              "image": "",
+              "title": "Tom Collins",
+              "job_title": "Operations",
+              "description": "<p>Making sure that things run smoothly and the drinks are tasty!&nbsp;<\/p>\n<p><\/p>\n<p>Favorite drink: Scotch on the rocks<\/p>",
+              "twitter": "Shopify"
+            }
+          },
+          "page-team-template-2": {
+            "type": "employee",
+            "settings": {
+              "image": "",
+              "title": "Rob Roy",
+              "job_title": "Marketing",
+              "description": "<p>Creative thinker both in ideas and cocktails!&nbsp;<\/p>\n<p><\/p>\n<p>Favorite drink: Boulevardier<\/p>",
+              "twitter": "Shopify"
+            }
+          },
+          "1571262435885": {
+            "type": "employee",
+            "settings": {
+              "image": "",
+              "title": "Jackie Sazerac",
+              "job_title": "Customer Service",
+              "description": "<p>Happy to chat about recipes and help answer any of your questions about our products!&nbsp;<\/p>\n<p>Favorite drink: Paper Plane<\/p>",
+              "twitter": "Shopify"
+            }
+          }
+        },
+        "block_order": [
+          "page-team-template-0",
+          "page-team-template-1",
+          "page-team-template-2",
+          "1571262435885"
+        ],
+        "settings": {
+          "image": "",
+          "image_position": "right",
+          "title": "Meet the amazing folks behind the scenes!",
+          "text": "<p>We're a close-knit group of whiskey lovers and cocktail aficionados. Rooted in the bar and hospitality industries, we combined our&nbsp;passion&nbsp;of crafting drinks and love of sculpture to bring you only the best bar tools &amp; products&nbsp;that will be great additions to any bar cart, and perfect for entertaining friends and family at home.<\/p>",
+          "text_position": "center",
+          "employee_per_row": 2,
+          "member_color": "#fff",
+          "member_accent_color": "#ee9b40",
+          "member_overlay_color": "#142b3b"
+        }
+      },
+      "contact-template": {
+        "type": "contact-template",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/dirt-path-reaches-along-line-of-florida-orange-orchard-trees.jpg",
+          "image_darken": true,
+          "title": "Hello!",
+          "subtitle": "We'd love to hear from you.",
+          "contact_text": "<p>Our small team will do our best to respond in 24 hours.<\/p>",
+          "show_map": false,
+          "wide_display": false,
+          "map_address": "",
+          "map_height": 400,
+          "zoom_level": 14,
+          "api_key": "",
+          "show_pin": false,
+          "map_style": "night"
+        }
+      },
+      "page-details-template": {
+        "type": "page-details-template",
+        "blocks": {
+          "page-details-template-7": {
+            "type": "image_with_text",
+            "settings": {
+              "layout": true,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "left",
+              "image": "",
+              "image_crop": "none",
+              "title": "Our Mantra",
+              "text": "<p>We believe that nourishment is the foundation of a fulfilling life. By nourishing ourselves, we nourish what matters most: our body, our soul, our family, and our friendships. Spring &amp; Mulberry is about cherishing moments that bring joy, connect us, comfort us, and sweeten our lives. That's why we make desserts that nourish, one bite at a time, one gift at a time.<\/p>",
+              "link": "",
+              "button_label": ""
+            }
+          },
+          "1590592956253": {
+            "type": "image_with_text_overlay",
+            "settings": {
+              "wide_display": true,
+              "image": "",
+              "pretext": "",
+              "title": "Nourish (verb):",
+              "subtitle": "<p><strong>to cherish, foster, keep alive; to strengthen, build up, or promote; to supply with what is necessary for life, health, and growth<\/strong><\/p>",
+              "caption_background": false,
+              "caption_background_transparency": false,
+              "text_position": "center",
+              "text_align": "center",
+              "button1": "",
+              "button1_link": "",
+              "button1_highlight": false,
+              "button2": "",
+              "button2_link": "",
+              "button2_highlight": false,
+              "mobile_image_crop": "none",
+              "mobile_text_below_image": false,
+              "mobile_text_color": ""
+            }
+          },
+          "page-details-template-8": {
+            "type": "image_with_text",
+            "settings": {
+              "layout": true,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "right",
+              "image": "",
+              "image_crop": "none",
+              "title": "Our Promise",
+              "text": "<p>We believe in using business as a force for good, nourishing everyone along the way by improving the health of customers, ensuring the livelihood of workers, and minimizing the impact on our planet. We want to leave the world better than we found it, making a difference through the food we make and the movement we build. <br><br>In doing so, we make this promise to you: our ingredients are simple and organic, straight from the Earth; we partner with female-led businesses, making life sweet; and, our packaging is elegant but minimal, leveraging eco-friendly materials wherever possible.<\/p>",
+              "link": "",
+              "button_label": ""
+            }
+          },
+          "1590457676205": {
+            "type": "image_with_text_overlay",
+            "settings": {
+              "wide_display": true,
+              "image": "",
+              "pretext": "",
+              "title": "",
+              "subtitle": "",
+              "caption_background": false,
+              "caption_background_transparency": true,
+              "text_position": "left",
+              "text_align": "left",
+              "button1": "",
+              "button1_link": "",
+              "button1_highlight": false,
+              "button2": "",
+              "button2_link": "",
+              "button2_highlight": false,
+              "mobile_image_crop": "none",
+              "mobile_text_below_image": true,
+              "mobile_text_color": ""
+            }
+          },
+          "1590592513199": {
+            "type": "image_with_text",
+            "settings": {
+              "layout": true,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "left",
+              "image": "",
+              "image_crop": "none",
+              "title": "From Our Founder",
+              "text": "<p>I was a marketer by day and food lover by night when a cancer diagnosis at 35 changed my life. With this news, I reexamined everything I put in my body, adding whole foods rich in antioxidants, while elminating the refined and artifical sugars that cause inflammation and disease.<\/p>\n<p><\/p>\n<p>As I received gifts from friends and strolled through the grocery aisles, it became clear there was a need for a better alternative: nourishing desserts presented in modern and elegant packaging, perfect for gifting yourself and nourishing others. Having spent a nearly a decade at iconic brands at Unilver, LVMH, and Pantone, I thought it was time to bring some glamour to health foods and some wellness to confectionery.<\/p>\n<p><\/p>\n<p>That&rsquo;s how Spring &amp; Mulberry was born.<\/p>\n<p><\/p>\n<p>- <em>Kathryn<\/em><\/p>",
+              "link": "",
+              "button_label": ""
+            }
+          },
+          "1590592692917": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 30,
+              "divider_border": false
+            }
+          },
+          "1590592684739": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 30,
+              "divider_border": false
+            }
+          },
+          "page-details-template-5": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 30,
+              "divider_border": false
+            }
+          },
+          "1572039505334": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 30,
+              "divider_border": false
+            }
+          },
+          "1590592697581": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 30,
+              "divider_border": false
+            }
+          },
+          "1590592655256": {
+            "type": "quote",
+            "settings": {
+              "quote_text": "We strive always to be honest, transparent, and fair. If you try us and love us, we hope you'll come back and tell your friends. If ever you have an issue of any kind, we promise to make it right. You can always reach our founder directly at kathryn@springnadmulberry.com.",
+              "quote_link": ""
+            }
+          },
+          "1590592722999": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 30,
+              "divider_border": false
+            }
+          },
+          "1590592726814": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 30,
+              "divider_border": false
+            }
+          },
+          "1590592804467": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 30,
+              "divider_border": false
+            }
+          },
+          "1590593110156": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 30,
+              "divider_border": false
+            }
+          },
+          "1590593114937": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 30,
+              "divider_border": false
+            }
+          },
+          "1590593175276": {
+            "type": "recently_viewed_products",
+            "settings": {
+              "rv_title": "Recently viewed products",
+              "rv_products_style": "grid",
+              "rv_max_display": 3,
+              "rv_per": 3
+            }
+          }
+        },
+        "block_order": [
+          "page-details-template-7",
+          "1590592956253",
+          "page-details-template-8",
+          "1590457676205",
+          "1590592513199",
+          "1590592692917",
+          "1590592684739",
+          "page-details-template-5",
+          "1572039505334",
+          "1590592697581",
+          "1590592655256",
+          "1590592722999",
+          "1590592726814",
+          "1590592804467",
+          "1590593110156",
+          "1590593114937",
+          "1590593175276"
+        ],
+        "settings": {}
+      },
+      "contact-custom-template": {
+        "type": "contact-custom-template",
+        "blocks": {
+          "contact-custom-template-0": {
+            "type": "textfield",
+            "settings": {
+              "label": "Name",
+              "placeholder": "Please enter your name",
+              "required": true
+            }
+          },
+          "contact-custom-template-1": {
+            "type": "email",
+            "settings": {
+              "label": "Email",
+              "placeholder": "Please enter your email"
+            }
+          },
+          "1571931417356": {
+            "type": "checkbox",
+            "settings": {
+              "label": "Type of Position",
+              "required": false,
+              "options_1": "Freelancer Roles",
+              "options_2": "Full Time Positions",
+              "options_3": "Internship Opportunities",
+              "options_4": "Agency Partnerships",
+              "options_5": "",
+              "options_6": "",
+              "options_7": "",
+              "options_8": "",
+              "options_9": "",
+              "options_10": ""
+            }
+          },
+          "contact-custom-template-2": {
+            "type": "textarea",
+            "settings": {
+              "label": "Message",
+              "placeholder": "Please include your website and\/or link to resume.",
+              "required": true
+            }
+          }
+        },
+        "block_order": [
+          "contact-custom-template-0",
+          "contact-custom-template-1",
+          "1571931417356",
+          "contact-custom-template-2"
+        ],
+        "settings": {
+          "image": "",
+          "image_darken": false,
+          "title": "",
+          "subtitle": "",
+          "contact_image": "",
+          "contact_subheading": "Join Our Sweet Team!",
+          "contact_content": "<p>Calling all and taste makers and taste testers who want to create moments of joy, connection, comfort, and sweetness. If you have hustle, ingenuity, and an entrepreneurial spirit, we'd love to chat! We seek out strategic trendsetters who love art, design, food, and fitness.<\/p>\n<p><\/p>\n<p>Come join us as we create desserts that nourish.<\/p>",
+          "contact_text_position": "center",
+          "contact_text_alignment": "left",
+          "contact_social_buttons": true,
+          "contact_logo": ""
+        }
+      },
+      "map": {
+        "type": "map",
+        "settings": {
+          "wide_display": true,
+          "map_image": "",
+          "map_address": "",
+          "map_height": 360,
+          "zoom_level": 8,
+          "api_key": "",
+          "show_pin": true,
+          "map_style": "night"
+        }
+      },
+      "registration-form": {
+        "type": "registration-form",
+        "settings": {
+          "text": "<p>Create an account for easy access to all your orders!<\/p>"
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "blocks": {
+          "1571937548473": {
+            "type": "featured_collection",
+            "settings": {
+              "title": "Add to your order...",
+              "collection_description": true,
+              "collection": "frontpage",
+              "collection_style": "grid",
+              "products_per": 3,
+              "products_limit": 3
+            }
+          }
+        },
+        "block_order": [
+          "1571937548473"
+        ],
+        "settings": {
+          "display_special_instructions": true,
+          "display_savings": true,
+          "cart_message": ""
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "image": "",
+          "image_darken": false,
+          "collection_breadcrumb": true,
+          "display_collection_title": false,
+          "align_height": false,
+          "collection_height": 200,
+          "collections_per_row": 3,
+          "pagination_limit": 18,
+          "toggle": false
+        }
+      },
+      "product-details-template": {
+        "type": "product-details-template",
+        "blocks": {
+          "product-details-template-0": {
+            "type": "rich_text_and_image",
+            "settings": {
+              "image": "",
+              "title": "For lovers of whiskey & design",
+              "content": "<p>All of our glasses are created in-house by using&nbsp;a handblown technique that we've perfected over the years. This technique allows us to be precise and detail oriented &ndash; just what we need to&nbsp;bring our exquisite designs to real life. If you're going to drink a high-quality spirit,&nbsp;why not drink it out of a luxurious vessel?<\/p>",
+              "text_size": "featured_text",
+              "text_alignment": "center",
+              "button_label": "View all Glassware",
+              "button_link": "shopify:\/\/collections\/glassware"
+            }
+          },
+          "product-details-template-1": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 15,
+              "divider_border": true
+            }
+          },
+          "1571939709399": {
+            "type": "recommended_products",
+            "settings": {}
+          },
+          "product-details-template-3": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 20,
+              "divider_border": false
+            }
+          },
+          "product-details-template-4": {
+            "type": "image_with_text_overlay",
+            "settings": {
+              "wide_display": true,
+              "image": "",
+              "pretext": "<p>Perfection. Every time.<\/p>",
+              "title": "Learn how to craft the perfect cocktail",
+              "subtitle": "<p>tips + tricks on the blog<\/p>",
+              "caption_background": false,
+              "caption_background_transparency": false,
+              "text_position": "center",
+              "text_align": "center",
+              "button1": "Sip, Sip, Away",
+              "button1_link": "shopify:\/\/blogs\/the-whiskey-exchange",
+              "button1_highlight": true,
+              "button2": "",
+              "button2_link": "",
+              "button2_highlight": false,
+              "mobile_image_crop": "none",
+              "mobile_text_below_image": true,
+              "mobile_text_color": ""
+            }
+          }
+        },
+        "block_order": [
+          "product-details-template-0",
+          "product-details-template-1",
+          "1571939709399",
+          "product-details-template-3",
+          "product-details-template-4"
+        ],
+        "settings": {
+          "product_thumbs": true,
+          "gallery_arrows": true,
+          "enable_product_lightbox": true,
+          "activate_zoom": false,
+          "slideshow_speed": 0,
+          "slideshow_animation": "slide",
+          "thumbnail_position": "bottom-slider",
+          "enable_thumbnail_slider": true,
+          "display_vendor": false,
+          "product_breadcrumb": false,
+          "display_sku": false,
+          "display_collections": false,
+          "display_type": false,
+          "display_tags": false,
+          "display_social_buttons": true,
+          "product_description_position": "top",
+          "display_savings": true,
+          "show_payment_button": true,
+          "product_images_position": "left",
+          "set_product_height": false,
+          "product_height": 500,
+          "video_looping": false,
+          "enable_shopify_product_badges": false,
+          "enable_reviews_in_description": false
+        }
+      },
+      "1590447012655": {
+        "type": "image-with-text-overlay",
+        "settings": {
+          "wide_display": true,
+          "image": "shopify:\/\/shop_images\/tall-grasses-by-sandy-beach_1800x_537f1cde-bae2-423f-8646-07e01dbc0245.jpg",
+          "pretext": "",
+          "title": "Deliciously Good",
+          "subtitle": "<p>Sweet treats should be nutritious and delicious. That’s why we trade up to antioxidant rich fruits, nuts, and cacao, foregoing all the bad stuff. Our line is sweetened with organic dates, a nutrient-dense super food with beautiful notes of caramel. <\/p><p>No fillers. No added sugar. Just deliciously good.<\/p>",
+          "caption_background": true,
+          "caption_background_transparency": true,
+          "button1": "Learn More",
+          "button1_highlight": true,
+          "button2": "",
+          "button2_highlight": false,
+          "text_position": "center",
+          "text_align": "center",
+          "mobile_image_crop": "none",
+          "mobile_text_below_image": false,
+          "mobile_text_color": "#faf7f7"
+        }
+      },
+      "1590447137346": {
+        "type": "image-with-text-overlay",
+        "disabled": true,
+        "settings": {
+          "wide_display": true,
+          "pretext": "",
+          "title": "Date Truffles",
+          "subtitle": "<p>A little soft. A little crunchy. A whole lot satisfying.<\/p>",
+          "caption_background": false,
+          "caption_background_transparency": false,
+          "button1": "Shop Now",
+          "button1_highlight": false,
+          "button2": "",
+          "button2_highlight": false,
+          "text_position": "right",
+          "text_align": "right",
+          "mobile_image_crop": "none",
+          "mobile_text_below_image": false,
+          "mobile_text_color": ""
+        }
+      },
+      "page-details-2-template": {
+        "type": "page-details-2-template",
+        "blocks": {
+          "page-details-2-template-0": {
+            "type": "image_with_text_overlay",
+            "settings": {
+              "wide_display": true,
+              "image": "shopify:\/\/shop_images\/Chocolate-Bark_82cfac79-7d98-4838-b765-b1c86cb57f63.jpg",
+              "pretext": "",
+              "title": "The Sweet Life",
+              "subtitle": "<p>Date-able Sweeteners. Nourishing Ingredients.                    <br\/>                   Thoughtfully sourced.        Deliciously Good.<\/p>",
+              "caption_background": true,
+              "caption_background_transparency": false,
+              "text_position": "right",
+              "text_align": "right",
+              "button1": "",
+              "button1_highlight": false,
+              "button2": "",
+              "button2_highlight": false,
+              "mobile_image_crop": "none",
+              "mobile_text_below_image": false,
+              "mobile_text_color": ""
+            }
+          },
+          "28458698-0227-4f1c-b3c5-814b4ffe987e": {
+            "type": "image_with_text_overlay",
+            "settings": {
+              "wide_display": true,
+              "image": "shopify:\/\/shop_images\/green-palm-leaves-spread-like-a-peacock-s-plume_1400x_1ff09cfa-b912-45b0-94e6-3c0eaa204c0a.jpg",
+              "pretext": "",
+              "title": "NOURISH (verb)",
+              "subtitle": "<p>to cherish, foster, keep alive;       <br\/>to strengthen, build up, or promote;                                       <br\/>to supply with what is necessary for life, health, and growth <\/p>",
+              "caption_background": false,
+              "caption_background_transparency": true,
+              "text_position": "center",
+              "text_align": "center",
+              "button1": "",
+              "button1_highlight": false,
+              "button2": "",
+              "button2_highlight": false,
+              "mobile_image_crop": "none",
+              "mobile_text_below_image": true,
+              "mobile_text_color": ""
+            }
+          },
+          "page-details-2-template-8": {
+            "type": "image_with_text",
+            "settings": {
+              "layout": true,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "left",
+              "image": "shopify:\/\/shop_images\/chestnuts-texture.jpeg",
+              "image_crop": "center",
+              "title": "In Every Bite",
+              "text": "<p>You&#x27;ll find organic and hierloom ingredients, thoughtfully sourced, crafted to bring out their best flavor, and combined to balance the familiar with the unique.<\/p><p>Whether its our stone-ground chocolate made from just three ingredients or our date bites, which required 14 rounds of prototyping to create a perfect brownie-like texture, you&#x27;ll find our produts are crafted for sweet nourishment. <\/p>",
+              "link": "shopify:\/\/collections\/all",
+              "button_label": ""
+            }
+          },
+          "page-details-2-template-7": {
+            "type": "image_with_text",
+            "settings": {
+              "layout": true,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "right",
+              "image": "shopify:\/\/shop_images\/IMG_3677_356a7f25-6ab1-4164-8339-d5efa8326675.jpg",
+              "image_crop": "none",
+              "title": "We Love Dates",
+              "text": "<p>All of our products are sweetened with organic dates, a nutrient-dense and fiber-rich alternative to sugar with beautiful notes of caramel. We love dates for their low glycemic index, which eliminates the energy crash that comes with conventional desserts. Dates are also packed with antioxidants, protecting your cells from the free radicals that lead to disease. They are the Earth&#x27;s original confection.<\/p>",
+              "button_label": ""
+            }
+          },
+          "page-details-2-template-5": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 20,
+              "divider_border": false
+            }
+          },
+          "page-details-2-template-18": {
+            "type": "quote",
+            "settings": {
+              "quote_text": "\"What are dates? Dates are sweet. Dates make seemingly mundane Tuesday exciting. Dates take a little courage to explore. Dates offer something new and something familiar. Dates are good for strangers or couples. Dates are great with dinner or dessert. Dates are fun.\"  - Bon Appetit"
+            }
+          },
+          "02f2cef3-3c7f-4588-bf33-9563e6c13da6": {
+            "type": "divider",
+            "settings": {
+              "divider_spacing": 20,
+              "divider_border": false
+            }
+          },
+          "716798a1-9d7d-4573-9662-e1d6d90e4cf0": {
+            "type": "image_with_text",
+            "settings": {
+              "layout": true,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "left",
+              "image": "shopify:\/\/shop_images\/The_Shah_s_Maternity_Session_50_-v2.jpg",
+              "image_crop": "center",
+              "title": "From Kathryn...",
+              "text": "<p>A few years back, I decided to quit sugar. I had always loved desserts, but hated the way they made me feel - tired, a little shaky, overly indulged. Which led me to wonder, is there a way for desserts to taste good and feel good? <\/p><p>The answer should be yes, but unfortunatley refined sugar and junk fillers are everywhere. So I set out to change that, learning about the health benefits of whole dried fruits &amp; nuts, testing recipes in my home kitchen for over a year, and discovering the magic of dates in baking and chocolate making. That&#x27;s how Spring &amp; Mulberry was born. <\/p><p><em>- Kathryn<\/em><\/p>",
+              "button_label": ""
+            }
+          },
+          "0aab1d8e-1439-4e0c-a816-eaf99be79ed3": {
+            "type": "image_with_text",
+            "settings": {
+              "layout": true,
+              "frontpage_text_align": "left",
+              "frontpage_image_position": "right",
+              "image": "shopify:\/\/shop_images\/for-you-shelf.jpg",
+              "image_crop": "center",
+              "title": "From Sarah...",
+              "text": "<p>I&#x27;m happiest in the kitchen or on the trail. Granolas, roasted nuts, trail mixes - these types of foods fuel my hikes and my soul. For years, I made them to nourish my children, power my day, and gift those I love - always homemade with hierloom ingredients and natural sweeteners. <\/p><p>Yet, when I strolled the grocery aisles and gifting stores, the quality recipes I made at home were nowhere to be found. It was a desert of deliciousness. That&#x27;s why you&#x27;ll now find them here at Spring &amp; Mulberry.<\/p><p><em>- Sarah<\/em><\/p>",
+              "button_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "page-details-2-template-0",
+          "28458698-0227-4f1c-b3c5-814b4ffe987e",
+          "page-details-2-template-8",
+          "page-details-2-template-7",
+          "page-details-2-template-5",
+          "page-details-2-template-18",
+          "02f2cef3-3c7f-4588-bf33-9563e6c13da6",
+          "716798a1-9d7d-4573-9662-e1d6d90e4cf0",
+          "0aab1d8e-1439-4e0c-a816-eaf99be79ed3"
+        ],
+        "settings": {}
+      },
+      "1590542452911": {
+        "type": "divider",
+        "disabled": true,
+        "settings": {
+          "divider_spacing": 30,
+          "divider_border": false
+        }
+      },
+      "1590542606850": {
+        "type": "image-with-text-overlay",
+        "disabled": true,
+        "settings": {
+          "wide_display": true,
+          "pretext": "",
+          "title": "Spring in Your Step",
+          "subtitle": "<p>We believe that nourishment is the foundation of a fulfilling life.<\/p><p><\/p><p>By nourishing ourselves, we honor what matters most: our body, our soul, our family and friends. Spring &amp; Mulberry was founded to create moments of joy, connection, comfort, and a little sweetness.<\/p><p><\/p><p>One bite at a time. One gift at a time.<\/p>",
+          "caption_background": false,
+          "caption_background_transparency": false,
+          "button1": "Learn More",
+          "button1_link": "shopify:\/\/pages\/about",
+          "button1_highlight": false,
+          "button2": "",
+          "button2_highlight": false,
+          "text_position": "center",
+          "text_align": "center",
+          "mobile_image_crop": "none",
+          "mobile_text_below_image": false,
+          "mobile_text_color": ""
+        }
+      },
+      "1590542839394": {
+        "type": "gallery",
+        "blocks": {
+          "1590542839394-0": {
+            "type": "image",
+            "settings": {}
+          },
+          "1590542839394-1": {
+            "type": "image",
+            "settings": {}
+          },
+          "1590542839394-2": {
+            "type": "image",
+            "settings": {}
+          },
+          "1590542839394-3": {
+            "type": "image",
+            "settings": {}
+          },
+          "1590542839394-4": {
+            "type": "image",
+            "settings": {}
+          },
+          "1590542839394-5": {
+            "type": "image",
+            "settings": {}
+          },
+          "1590542839394-6": {
+            "type": "image",
+            "settings": {}
+          },
+          "1590542839394-7": {
+            "type": "image",
+            "settings": {}
+          }
+        },
+        "block_order": [
+          "1590542839394-0",
+          "1590542839394-1",
+          "1590542839394-2",
+          "1590542839394-3",
+          "1590542839394-4",
+          "1590542839394-5",
+          "1590542839394-6",
+          "1590542839394-7"
+        ],
+        "settings": {
+          "wide_display": false,
+          "title": "Follow @spring.mulberry on Instagram",
+          "gallery_type": "classic",
+          "grid-size": 4,
+          "enable_lightbox": true
+        }
+      },
+      "1590542997309": {
+        "type": "divider",
+        "disabled": true,
+        "settings": {
+          "divider_spacing": 30,
+          "divider_border": false
+        }
+      },
+      "1590543276633": {
+        "type": "testimonial",
+        "blocks": {
+          "dbb2638e-f1a6-4b16-b573-cca0dc60b368": {
+            "type": "image",
+            "settings": {
+              "title": "On Our Date Bites...",
+              "testimonial": "<p><em>Delicious!! The date bites taste no less indulgent than an &#x27;unhealthy&#x27; truffle. The whole family unanimously loved the product!<\/em><\/p>",
+              "name": "Paige",
+              "store_name": "",
+              "text_position": "center",
+              "text_align": "center",
+              "darken_bg": false
+            }
+          },
+          "597c92d7-baf3-4087-aa31-62c967ec6cee": {
+            "type": "image",
+            "settings": {
+              "title": "On Our Bark...",
+              "testimonial": "<p><em>This chocolate is dope. It&#x27;s super smooth and has a great chocolate taste. Wasn&#x27;t sure about the date pecan bark, but I&#x27;m a convert. WOW. How does this not have sugar?!<\/em><\/p>",
+              "name": "Jack",
+              "store_name": "",
+              "text_position": "center",
+              "text_align": "center",
+              "darken_bg": false
+            }
+          },
+          "d6d8793d-6c27-4e34-b1cf-2641a3d73766": {
+            "type": "image",
+            "settings": {
+              "title": "On Our Mix...",
+              "testimonial": "<p>This trail mix is fancy! Love the packaging - you can see all the different ingredients. Chocolate gooseberry was my favorite, but my husband preferred cherry apricot. Glad I don&#x27;t have to share!<\/p>",
+              "name": "Melissa",
+              "store_name": "",
+              "text_position": "center",
+              "text_align": "center",
+              "darken_bg": false
+            }
+          }
+        },
+        "block_order": [
+          "dbb2638e-f1a6-4b16-b573-cca0dc60b368",
+          "597c92d7-baf3-4087-aa31-62c967ec6cee",
+          "d6d8793d-6c27-4e34-b1cf-2641a3d73766"
+        ],
+        "settings": {
+          "wide_display": true,
+          "testimonial_text_animation": "fadeIn",
+          "testimonial_speed": 6
+        }
+      },
+      "1590543446704": {
+        "type": "logo-bar",
+        "disabled": true,
+        "blocks": {
+          "1590543446704-0": {
+            "type": "logo_image",
+            "settings": {}
+          },
+          "1590543446704-1": {
+            "type": "logo_image",
+            "settings": {}
+          },
+          "1590543446704-2": {
+            "type": "logo_image",
+            "settings": {}
+          },
+          "1590543446704-3": {
+            "type": "logo_image",
+            "settings": {}
+          }
+        },
+        "block_order": [
+          "1590543446704-0",
+          "1590543446704-1",
+          "1590543446704-2",
+          "1590543446704-3"
+        ],
+        "settings": {
+          "title": "In the News..."
+        }
+      },
+      "1590543610214": {
+        "type": "image-with-text-overlay",
+        "settings": {
+          "wide_display": true,
+          "pretext": "",
+          "title": "Perfect for Gifting",
+          "subtitle": "<p>Your Mama. Your Bestie. Your Self.<\/p>",
+          "caption_background": true,
+          "caption_background_transparency": false,
+          "button1": "Shop Now",
+          "button1_link": "shopify:\/\/collections\/all",
+          "button1_highlight": true,
+          "button2": "",
+          "button2_highlight": false,
+          "text_position": "right",
+          "text_align": "right",
+          "mobile_image_crop": "none",
+          "mobile_text_below_image": false,
+          "mobile_text_color": ""
+        }
+      },
+      "1590543819201": {
+        "type": "divider",
+        "disabled": true,
+        "settings": {
+          "divider_spacing": 30,
+          "divider_border": false
+        }
+      },
+      "1591376542552": {
+        "type": "divider",
+        "settings": {
+          "divider_spacing": 5,
+          "divider_border": false
+        }
+      },
+      "1599499478065": {
+        "type": "custom-html",
+        "disabled": true,
+        "settings": {
+          "custom_html": "<div class=\"left\">\n<p>\nTesting\n<\/p>\n<\/div>\n\n<div class=\"right\">\n<img width=\"500px\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0246\/4917\/1010\/files\/Asset_1_3x-8.png?v=1599499981\">\n<\/div>\n\n<style>\n.left {\n  float: left;\n}\n\n.right {\nfloat: right;\n}\n<\/style>"
+        }
+      },
+      "landing-page-html": {
+        "type": "landing-page-html",
+        "settings": {
+          "custom_html": "<link href=\"https:\/\/fonts.googleapis.com\/css2?family=Poppins:wght@100;300&display=swap\" rel=\"stylesheet\">\n\n<div class=\"left\">\n<div class=\"text\">\n<img class=\"logo\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0246\/4917\/1010\/files\/logo_3639d613-bb4e-4df9-973f-036f1cabc591.png?v=1599504614\">\n<h1>\nComing Soon\n<\/h1>\n<p>\nBe the first to know when we launch and sign up to receive exclusive discounts.\n<\/p>\n<\/div>\n\n<!-- Begin Mailchimp Signup Form -->\n<link href=\"\/\/cdn-images.mailchimp.com\/embedcode\/horizontal-slim-10_7.css\" rel=\"stylesheet\" type=\"text\/css\">\n<style type=\"text\/css\">\n    #mc_embed_signup{ clear:left; margin-top: 30px; font:14px 'Poppins',Arial,sans-serif; width:100%;}\n#mc-embedded-subscribe{ font:14px 'Poppins',Arial,sans-serif; }\n\n    \/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.\n       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. *\/\n<\/style>\n<div id=\"mc_embed_signup\">\n<form action=\"https:\/\/springandmulberry.us2.list-manage.com\/subscribe\/post?u=030e4c6942f6dc8e279d20fde&id=1cb8574b51\" method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\" class=\"validate\" target=\"_blank\" novalidate=\"\">\n    <div id=\"mc_embed_signup_scroll\">\n    \n    <input type=\"email\" value=\"\" name=\"EMAIL\" class=\"email\" id=\"mce-EMAIL\" placeholder=\"Email address\" required=\"\" style=\"font:14px 'Poppins',Arial,sans-serif; \">\n    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->\n    <div style=\"position: absolute; left: -5000px;\" aria-hidden=\"true\"><input type=\"text\" name=\"b_030e4c6942f6dc8e279d20fde_1cb8574b51\" tabindex=\"-1\" value=\"\"><\/div>\n    <input type=\"submit\" value=\"Subscribe\" name=\"subscribe\" id=\"mc-embedded-subscribe\" class=\"button\" style=\"background-color: #A8405C;\">\n\n    <\/div>\n<\/form>\n\n\n<\/div>\n<!--End mc_embed_signup-->\n\n<\/div>\n\n\n\n<div class=\"right\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0246\/4917\/1010\/files\/test2.jpg?v=1599503507\">\n<\/div>"
+        }
+      },
+      "password-landingpage": {
+        "type": "password-landingpage",
+        "settings": {
+          "custom_logo": "",
+          "logo_width": 280,
+          "custom_pagework_page_bg": false,
+          "password-page-background": "shopify:\/\/shop_images\/bg.jpg",
+          "pagework_page_bg_stretched": false,
+          "password_message": "",
+          "password_text": "",
+          "social_media": false
+        }
+      },
+      "1609648788959016bf": {
+        "type": "collection-list",
+        "blocks": {
+          "1609648788959016bf-0": {
+            "type": "collection",
+            "settings": {
+              "feature_collection": "date-bites",
+              "image": "shopify:\/\/shop_images\/IMG_4074.jpg"
+            }
+          },
+          "1609648788959016bf-1": {
+            "type": "collection",
+            "settings": {
+              "feature_collection": "dark-chocolate-bark",
+              "image": "shopify:\/\/shop_images\/IMG_3738.jpg"
+            }
+          },
+          "1609648788959016bf-2": {
+            "type": "collection",
+            "settings": {
+              "feature_collection": "fruit-nut-mix",
+              "image": "shopify:\/\/shop_images\/IMG_4130_2.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1609648788959016bf-0",
+          "1609648788959016bf-1",
+          "1609648788959016bf-2"
+        ],
+        "settings": {
+          "title": "Sweet Treats from Noon to Night",
+          "align_height": false,
+          "collection_height": 200,
+          "frontpage_collections_per_row": 3
+        }
+      }
+    },
+    "content_for_index": [
+      "1489283389016",
+      "1609648788959016bf",
+      "1591376542552",
+      "1590543610214",
+      "1590543276633",
+      "1590447012655",
+      "1590542452911",
+      "1590447137346",
+      "1590542997309",
+      "1590542606850",
+      "1590543819201",
+      "1590542839394",
+      "1590543446704",
+      "1599499478065"
+    ]
+  }
+}
