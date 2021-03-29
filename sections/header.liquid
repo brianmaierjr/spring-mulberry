@@ -78,10 +78,10 @@
     <a href="{{ shop.url }}" title="{{ shop.name | escape }}" class="mobile_logo logo">
       {% if section.settings.logo_mobile != nil %}
         {% comment %} <img src="{{ section.settings.logo_mobile | img_url: '410x' }}" alt="{{ shop.name | escape }}" class="lazyload" /> {% endcomment %}
-        <img src="https://cdn.shopify.com/s/files/1/0246/4917/1010/files/logo_1.svg?v=1616815265" alt="{{ shop.name | escape }}" class="lazyload" />
+        <img src="https://cdn.shopify.com/s/files/1/0246/4917/1010/files/logo_1.svg" alt="{{ shop.name | escape }}" class="lazyload" />
       {% elsif section.settings.logo != nil %}
         {% comment %} <img src="{{ section.settings.logo | img_url: '410x' }}" alt="{{ shop.name | escape }}" /> {% endcomment %}
-        <img src="https://cdn.shopify.com/s/files/1/0246/4917/1010/files/logo_1.svg?v=1616815265" alt="{{ shop.name | escape }}" />
+        <img src="https://cdn.shopify.com/s/files/1/0246/4917/1010/files/logo_1.svg" alt="{{ shop.name | escape }}" />
       {% else %}
         {{ shop.name }}
       {% endif %}
@@ -393,11 +393,11 @@
             <a href="{{ shop.url }}" title="{{ shop.name }}">
               {% if section.settings.logo_home != nil %}
                 {% comment %} <img src="{{ section.settings.logo_home | img_url: '410x' }}" class="secondary_logo" alt="{{ shop.name | escape }}" /> {% endcomment %}
-                <img src="https://cdn.shopify.com/s/files/1/0246/4917/1010/files/logo_1.svg?v=1616815265" class="secondary_logo" alt="{{ shop.name | escape }}" />
+                <img src="https://cdn.shopify.com/s/files/1/0246/4917/1010/files/logo_1.svg" class="secondary_logo" alt="{{ shop.name | escape }}" />
               {% endif %}
               {% if section.settings.logo != nil %}
                 {% comment %} <img src="{{ section.settings.logo | img_url: '410x' }}" class="primary_logo lazyload" alt="{{ shop.name | escape }}" /> {% endcomment %}
-                <img src="https://cdn.shopify.com/s/files/1/0246/4917/1010/files/logo_1.svg?v=1616815265" class="primary_logo lazyload" alt="{{ shop.name | escape }}" />
+                <img src="https://cdn.shopify.com/s/files/1/0246/4917/1010/files/logo_1.svg" class="primary_logo lazyload" alt="{{ shop.name | escape }}" />
               {% else %}
                 {{ shop.name }}
               {% endif %}

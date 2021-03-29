@@ -22,7 +22,7 @@
           {% if block.type == 'logo' %}
             <div class="text-align--{{block.settings.text_align}}">
               {% if block.settings.image %}
-                <img  alt="{{ block.settings.image.alt | escape }}"
+                <!-- <img  alt="{{ block.settings.image.alt | escape }}"
                       class="footer-logo lazyload {{ settings.image_loading_style }}"
                       data-sizes="25vw"
                       style="max-width: {{- block.settings.image.width -}}px"
@@ -33,7 +33,8 @@
                                     {{ block.settings.image | img_url: '500x' }} 500w,
                                     {{ block.settings.image | img_url: '600x' }} 600w,
                                     {{ block.settings.image | img_url: '1000x' }} 1000w"
-                   />
+                   /> -->
+                   <img src="https://cdn.shopify.com/s/files/1/0246/4917/1010/files/logo_1.svg" alt="Spring & Mulberry" class="footer-logo lazyload {{ settings.image_loading_style }}"">
               {% else %}
                 <div class="logo">{{ shop.name }}</div>
               {% endif %}

@@ -12594,6 +12594,10 @@ body {
     }
 
   }
+
+  #shopify-section-1609648788959016bf h2.title {
+    font-size: 38px;
+  }
 }
 
 @media only screen and (min-width: 960px) {
@@ -12663,6 +12667,13 @@ body {
   }
 }
 
+@media only screen and (min-width: 1025px) {
+  #banner-1489283389016 .caption .headline {
+    font-size: 72px; 
+    line-height: 1.1;
+  }
+}
+
 @media only screen and (min-width: 1200px) {
  	
   .container {
@@ -12713,10 +12724,8 @@ body {
   margin-bottom: 100px;
   position: relative;
 }
-
 p {
-  width: 282px;
-  font-family: Chromatica;
+  width: 282px;  font-family: Chromatica;
   font-style: normal;
   font-weight: 300;
   font-size: 14px;
@@ -12737,14 +12746,27 @@ p {
 
 
   
-/** Testimonial Section **/
+// Testimonial Section
 
 .testimonial-section {
-  background-image: 
-                    url(https://cdn.shopify.com/s/files/1/0246/4917/1010/files/Great_First_Date_Illustration_Grouping_1.svg?v=1616817099),
-                    url(https://cdn.shopify.com/s/files/1/0246/4917/1010/files/Cocao_Me_Bananas_Illustration_Grouping_1.png?v=1616817099);
+  background-image:  url(https://cdn.shopify.com/s/files/1/0246/4917/1010/files/Great_First_Date_Illustration_Grouping_1.svg?v=1616817099), url(https://cdn.shopify.com/s/files/1/0246/4917/1010/files/Cocao_Me_Bananas_Illustration_Grouping_1.png?v=1616817099);
   background-repeat: no-repeat;
-  background-position: -50% -50%, bottom right;
+  background-size: 175px 207px;
+  background-position: -50px -50px, calc(100% + 50px) calc(100% + 50px);
+}
+
+
+@media only screen and (min-width: 800px) {
+  .testimonial-section {
+    background-size: 250px 296px;
+  }
+}
+
+@media only screen and (min-width: 1400px) {
+  .testimonial-section {
+    background-size: 329px 389px;
+    background-position: -2vw -2vw, calc(100% + 2vw) calc(100% + 2vw);
+  }
 }
 
 .testimonial-section .testimonial-slideshow {
@@ -12755,8 +12777,154 @@ p {
 
 .testimonial-section .caption-content {
   max-width: 100%;
+  padding: 0 20px;
+}
+
+.testimonial-section .caption-content * {
+  font-family: "ITC Berkeley Old Style", serif;
+  font-size: 26px;
 }
 
 .testimonial-section .set-static .caption {
-  padding: 60px 40px;
+  padding: 80px 40px;
+}
+
+.testimonial-section .headline {
+  text-transform: uppercase;
+  color: #813914 !important;
+  font-family: 'Chromatica', sans-serif;
+  font-size: 26px;
+}
+
+.testimonial-section .flickity-prev-next-button,
+.testimonial-section .flickity-prev-next-button:hover,
+.testimonial-section .flickity-prev-next-button:focus {
+  background-color: transparent;
+}
+
+.testimonial-section .flickity-prev-next-button svg {
+  width: 100%;
+  left: 0;
+}
+
+.testimonial-section .flickity-prev-next-button .arrow {
+  fill: #813914;
+}
+
+
+// Homepage Banner
+
+#banner-1489283389016 .caption.position-left {
+  margin-left: 40px;
+}
+
+@media (min-width: 481px) {
+  #banner-1489283389016 .caption-content {
+    max-width: 40vw;
+  }
+}
+
+.testimonial-block.gallery-cell.use-mobile-color {
+  background-color: transparent !important; 
+}
+
+// Product Listing on Homepage
+
+#shopify-section-1609648788959016bf .title:not(h2) {
+  font-family: "ITC Berkeley Old Style", serif;
+  text-transform: none;
+  color: #B47F25;
+  font-size: 28px; 
+}
+
+// Why Choose? Homepage
+
+#whyChoose {
+  padding: 40px 0 80px;
+}
+
+#whyChoose h2 {
+  color: #813914;
+  font-size: 28px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+@media (min-width: 800px) {
+  #whyChoose h2 {
+    font-size: 38px;
+  }
+}
+
+#whyChoose p {
+  margin-bottom: 30px;
+  font-family: "ITC Berkeley Old Style", serif;
+  font-size: 22px;
+}
+
+// Deliciously Good
+
+#banner-1590447012655 .caption .subtitle {
+  font-size: 18px;
+}
+
+
+// New Collections Page
+
+div.collectionGroup {
+  padding-top: 60px; 
+  border-bottom: 2px solid #E0C08B;
+  padding-bottom: 30px;
+}
+
+div.collectionGroup:last-child {
+  border-bottom: none; 
+}
+
+
+.collectionGroup .four.columns h2 { 
+  text-transform: none;
+  font-family: "ITC Berkeley Old Style", serif;
+}
+
+.collectionGroup .four.columns > *:not(h2) {
+  color: #B47F25;
+}
+
+.collectionGroup  .collectionGroup__item a {
+  color: #813914;
+}
+
+.collectionGroup  .collectionGroup__item  img {
+  width: 100%;
+  height: auto;
+}
+
+.collectionGroup  .collectionGroup__item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+@media (min-width: 900px) {
+  .collectionGroup .four.columns {
+    padding-left: 2em;
+  }
+
+  .collectionGroup .twelve.columns {
+    display: flex; 
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }
+
+  .collectionGroup  .collectionGroup__item {
+    padding-left: 2em;
+    flex: 1;
+    width: calc(50% - 2em);
+  }
+
+  .collectionGroup .four.columns h2 { 
+    font-size: 36px;
+  }
 }

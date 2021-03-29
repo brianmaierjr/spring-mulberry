@@ -1,0 +1,68 @@
+{% comment %}
+** Collections - default view **
+- Collection template
+- Uses blocks
+{% endcomment %} 
+
+<a name="pagecontent" id="pagecontent"></a>
+
+<div class="collectionContainer">
+
+  <div class="container collectionGroup" id="dateBites">
+    <div class="four columns">
+      {% assign dateBites = collections.date-bites %}
+      <h2>{{ dateBites.title }}</h2>
+      {{ dateBites.description }}
+    </div>
+    <div class="twelve columns">
+      {% for bite in collections.date-bites.products %}
+        <div class="collectionGroup__item">
+          <a href="{{ bite.url }}">
+            <img src="{{ bite.featured_image.src | product_img_url: '800x' }}">
+            <h3>{{ bite.title }}</h3>
+            <p class="collectionGroup__itemPrice">{{ bite.price | money }}</p>
+          </a> 
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="container collectionGroup" id="chocolateBark">
+    <div class="four columns">
+      {% assign chocolateBark = collections.chocolate-bark %}
+      <h2>{{ chocolateBark.title }}</h2>
+      {{ chocolateBark.description }}
+    </div>
+    <div class="twelve columns">
+      {% for bark in collections.chocolate-bark.products %}
+        <div class="collectionGroup__item">
+          <a href="{{ bark.url }}">
+            <img src="{{ bark.featured_image.src | product_img_url: '800x' }}">
+            <h3>{{ bark.title }}</h3>
+            <p class="collectionGroup__itemPrice">{{ bark.price | money }}</p>
+          </a> 
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="container collectionGroup" id="superfoodMix">
+    <div class="four columns">
+      {% assign superfoodMix = collections.superfood-mix %}
+      <h2>{{ superfoodMix.title }}</h2>
+      {{ superfoodMix.description }}
+    </div>
+    <div class="twelve columns">
+      {% for mix in collections.superfood-mix.products %} 
+        <div class="collectionGroup__item">
+          <a href="{{ mix.url }}">
+            <img src="{{ mix.featured_image.src | product_img_url: '800x' }}">
+            <h3>{{ mix.title }}</h3>
+            <p class="collectionGroup__itemPrice">{{ mix.price | money }}</p>
+          </a> 
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+
+</div>
