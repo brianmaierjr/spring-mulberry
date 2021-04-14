@@ -8,6 +8,32 @@
 
 <div class="collectionContainer">
 
+  <div class="container collectionGroup" id="bundlesGiftSets">
+    <div class="four columns">
+      {% assign bundles = collections.bundles %}
+      <h2>{{ bundles.title }}</h2> 
+      {{ bundles.description }}
+    </div>
+    <div class="twelve columns">
+      {% for bundle in collections.bundles.products %}
+        <div class="collectionGroup__item">
+          <a href="{{ bundle.url }}">
+            {% assign image = bundle.featured_image %}
+      
+            {% render 'image-element',
+                    image: image,
+                    alt: collection.title,
+                    stretch_width: true,
+                    progressive: true
+            %}
+            <h3>{{ bundle.title }}</h3>
+            <p class="collectionGroup__itemPrice">{{ bundle.price | money }}</p>
+          </a> 
+        </div>
+      {% endfor %} 
+    </div>
+  </div>
+
   <div class="container collectionGroup" id="dateBites">
     <div class="four columns">
       {% assign dateBites = collections.date-bites %}
@@ -18,7 +44,14 @@
       {% for bite in collections.date-bites.products %}
         <div class="collectionGroup__item">
           <a href="{{ bite.url }}">
-            <img src="{{ bite.featured_image.src | product_img_url: '800x' }}">
+            {% assign image = bite.featured_image %}
+      
+            {% render 'image-element',
+                    image: image,
+                    alt: collection.title,
+                    stretch_width: true,
+                    progressive: true
+            %}            
             <h3>{{ bite.title }}</h3>
             <p class="collectionGroup__itemPrice">{{ bite.price | money }}</p>
           </a> 
@@ -37,7 +70,14 @@
       {% for bark in collections.chocolate-bark.products %}
         <div class="collectionGroup__item">
           <a href="{{ bark.url }}">
-            <img src="{{ bark.featured_image.src | product_img_url: '800x' }}">
+            {% assign image = bark.featured_image %}
+      
+            {% render 'image-element',
+                    image: image,
+                    alt: collection.title,
+                    stretch_width: true,
+                    progressive: true
+            %}
             <h3>{{ bark.title }}</h3>
             <p class="collectionGroup__itemPrice">{{ bark.price | money }}</p>
           </a> 
@@ -56,7 +96,14 @@
       {% for mix in collections.superfood-mix.products %} 
         <div class="collectionGroup__item">
           <a href="{{ mix.url }}">
-            <img src="{{ mix.featured_image.src | product_img_url: '800x' }}">
+            {% assign image = mix.featured_image %}
+      
+            {% render 'image-element',
+                    image: image,
+                    alt: collection.title,
+                    stretch_width: true,
+                    progressive: true
+            %}
             <h3>{{ mix.title }}</h3>
             <p class="collectionGroup__itemPrice">{{ mix.price | money }}</p>
           </a> 

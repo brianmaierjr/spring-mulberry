@@ -12747,21 +12747,21 @@ p {
 .testimonial-section {
   background-image:  url(https://cdn.shopify.com/s/files/1/0246/4917/1010/files/Great_First_Date_Illustration_Grouping_1.svg?v=1616817099), url(https://cdn.shopify.com/s/files/1/0246/4917/1010/files/Cocao_Me_Bananas_Illustration_Grouping_1.png?v=1616817099);
   background-repeat: no-repeat;
-  background-size: 175px 207px;
-  background-position: -50px -50px, calc(100% + 50px) calc(100% + 50px);
+  background-size: 100px auto;
+  background-position: -20px -20px, calc(100% + 20px) calc(100% + 20px);
 }
 
 
 @media only screen and (min-width: 800px) {
   .testimonial-section {
-    background-size: 250px 296px;
+    background-size: 150px auto;
   }
 }
 
 @media only screen and (min-width: 1400px) {
   .testimonial-section {
-    background-size: 329px 389px;
-    background-position: -2vw -2vw, calc(100% + 2vw) calc(100% + 2vw);
+    background-size: 210px auto;
+    background-position: -1vw -1vw, calc(100% + 1vw) calc(100% + 1vw);
   }
 }
 
@@ -12932,9 +12932,43 @@ div.collectionGroup:last-child {
     padding-left: 2em;
     flex: 1;
     width: calc(50% - 2em);
+    min-width: calc(50% - 2em);
   }
 
   .collectionGroup .four.columns h2 { 
     font-size: 36px;
   }
 }
+
+// Our Story Quote
+
+.block__page-details-2-template-18 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.block__page-details-2-template-18 .columns { 
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  float: none;
+  display: block;
+}
+
+// Hide text next to hamburger on mobile
+// Hide close button on announcement bar
+
+#header .mobile_nav.dropdown_link span.menu_title,
+.promo_banner .promo_banner-close {
+  display: none;
+}
+ 
+  
+  // Button Color on Mobile fix
+
+  @media only screen and (max-width: 480px) {
+    a.highlight-true, input[type="button"].highlight-true {
+      border-color: #AD3A56 !important;
+      background-color: #AD3A56 !important;
+      color: #fff; } 
+  }
